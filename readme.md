@@ -1,0 +1,1 @@
+Django web blog to test the basics of using the Django framework.
